@@ -1,8 +1,8 @@
-package org.Dao.Impl.Test;
+package org.Impl.Test;
 
 
-import org.Dao.Impl.Student;
-import org.Dao.Impl.StudentDAOImpl;
+import org.Impl.Student;
+import org.Impl.StudentDAOImpl;
 import org.Dao.StudentDAO;
 
 import java.util.Date;

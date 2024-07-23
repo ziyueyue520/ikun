@@ -1,6 +1,6 @@
 package org.test;
 
-import org.Dao.Impl.StudentDAOImpl;
+import org.Impl.StudentDAOImpl;
 import org.Dao.StudentDAO;
 import org.junit.Assert;
 import org.junit.Before;

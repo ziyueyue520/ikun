@@ -1,7 +1,7 @@
 package org.Dao;
 
 
-import org.Dao.Impl.Student;
+import org.Impl.Student;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.Dao.Impl;
+package org.Impl;
 
 
 import org.Dao.StudentDAO;
